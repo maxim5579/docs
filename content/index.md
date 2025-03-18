@@ -20,7 +20,7 @@ orientation: horizontal
   :::
 
 #title
-Build your docs with Nuxt UI Pro
+My testing
 
 #description
 Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to create beautiful & responsive applications in minutes.
